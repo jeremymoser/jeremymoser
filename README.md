@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/jeremy-moser-6839a7211/
 - 😄 Pronouns: he/him
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeremymoser)](https://git.io/streak-stats)
+<div style="text-align: center;">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeremymoser)](https://git.io/streak-stats)</div>
