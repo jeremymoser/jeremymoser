@@ -1,7 +1,7 @@
 # Hi there, my name is Jeremy Moser 👋
 > ***"Life is a journey, not a destination."*** *~Unknown Author*
 
-- 🖥️ I'm a full-stack web developer.
+- 🖥️ I'm a full-stack developer.
 - :mortar_board: This year ('23), I will graduate with a Bachelor of Applied Science (BAS) in Information Management with a Database Administration concentration.
 - 😄 Pronouns: he/him
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/jeremy-moser-6839a7211" title=" Jeremy Moser's LinkedIn Profile " target="_blank" rel="noreferrer">LinkedIn</a> | [Email](mailto:jeremygmoser@icloud.com " Email Jeremy Moser ")
