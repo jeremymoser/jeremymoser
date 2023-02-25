@@ -1,4 +1,4 @@
-# Hi there, my name is Jeremy Moser 👋
+# Hi there, my name is Jeremy 👋
 > ***"Life is a journey, not a destination."*** *~Unknown Author*
 
 - 🖥️ I'm a full-stack web developer.
